@@ -1,0 +1,21 @@
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.pdb
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csprojAssemblyReference.cache
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.exe
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.pdb
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.pdb
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.AssemblyReference.cache
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.exe
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.pdb
+D:\FACULDADE\4 PERIODO\AED\BuscaTexto 2024 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.FormReplace.resources

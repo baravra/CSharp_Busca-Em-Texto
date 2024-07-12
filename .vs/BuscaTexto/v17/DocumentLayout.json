@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\buscatexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|solutionrelative:buscatexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\buscatexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|solutionrelative:buscatexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|d:\\faculdade\\4 periodo\\aed\\buscatexto 2024 (c-sharp)\\buscatexto\\buscatexto\\buscaforcabruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|solutionrelative:buscatexto\\buscaforcabruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscaForcaBruta.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\BuscaTexto\\BuscaForcaBruta.cs",
+              "RelativeDocumentMoniker": "BuscaTexto\\BuscaForcaBruta.cs",
+              "ToolTip": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\BuscaTexto\\BuscaForcaBruta.cs",
+              "RelativeToolTip": "BuscaTexto\\BuscaForcaBruta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:01:15.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\BuscaTexto\\Form1.cs",
+              "RelativeDocumentMoniker": "BuscaTexto\\Form1.cs",
+              "ToolTip": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\BuscaTexto\\Form1.cs",
+              "RelativeToolTip": "BuscaTexto\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:16:19.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\BuscaTexto\\Form1.cs",
+              "RelativeDocumentMoniker": "BuscaTexto\\Form1.cs",
+              "ToolTip": "D:\\FACULDADE\\4 PERIODO\\AED\\BuscaTexto 2024 (C-Sharp)\\BuscaTexto\\BuscaTexto\\Form1.cs [Design]",
+              "RelativeToolTip": "BuscaTexto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:34:32.078Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
